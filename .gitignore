@@ -1,0 +1,9 @@
+.project
+.settings
+.metadata
+salesforce.schema
+Referenced Packages
+apex-scripts/log
+build.properties
+config
+mm.log
