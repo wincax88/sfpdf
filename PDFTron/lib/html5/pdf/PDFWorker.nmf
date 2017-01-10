@@ -1,0 +1,9 @@
+{
+  "program": {
+    "portable": {
+      "pnacl-translate": {
+        "url": "/resource/1483997727000/pdfworker/PDFWorker.pexe"
+      }
+    }
+  }
+}
